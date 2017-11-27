@@ -1,0 +1,70 @@
+// mark		time [ms]		Event id		phrase		t_FadeIn [sec]		life [sec]		t_FadeOut [sec]
+<Event>	<|>	11022	<|>	3	<|>	Rolling my sleeves up in here	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	16339	<|>	1	<|>	To make you smile ear to ear	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	20008	<|>	4	<|>	Girl I been hitting that, hitting that graveyard shift	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	23143	<|>	1	<|>	You won't find another one built for this	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	24768	<|>	3	<|>	Dirty work, ooh	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	27717	<|>	3	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	30085	<|>	1	<|>	Baby I don't need your help	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	34637	<|>	4	<|>	I'd do it all by myself	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	38236	<|>	3	<|>	Girl I been putting in, putting in over time	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	41417	<|>	1	<|>	You ain't gotta tell me what's on your mind	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	42903	<|>	3	<|>	Dirty work, ooh	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	45968	<|>	1	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	47477	<|>	4	<|>	'Cause when you do what you love	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	49706	<|>	1	<|>	You're gonna love what you do	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	51935	<|>	1	<|>	You know I do it with love	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	54304	<|>	3	<|>	Each night I do it for you	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	56115	<|>	1	<|>	It's the dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	58855	<|>	1	<|>	Somebodies gotta do it	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	61363	<|>	3	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	63058	<|>	4	<|>	So we're getting into it	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	65867	<|>	3	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	67934	<|>	1	<|>	Go and get your body moving	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	70279	<|>	3	<|>	You know it ain't no nine to five	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	72532	<|>	1	<|>	We're going sundown to sunrise	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	73971	<|>	3	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	79614	<|>	1	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	84861	<|>	3	<|>	I'm filthy down to the core	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	89389	<|>	4	<|>	Leave all your stress at the door	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	93035	<|>	3	<|>	You know you need to stop scrubbing with Mr. Clean	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	95403	<|>	1	<|>	Bring it right here, come next to me	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	98515	<|>	3	<|>	Dirty work, ooh	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	100883	<|>	4	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	102416	<|>	1	<|>	'Cause when you do what you love	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	104552	<|>	1	<|>	You're gonna love what you do	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	106851	<|>	1	<|>	You know I do it with love	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	109080	<|>	3	<|>	Each night I do it for you	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	111123	<|>	1	<|>	It's the dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	113747	<|>	4	<|>	Somebodies gotta do it	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	116278	<|>	1	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	118344	<|>	3	<|>	So we're getting into it	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	120086	<|>	1	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	122803	<|>	3	<|>	Go and get your body moving	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	124823	<|>	4	<|>	You know it ain't no nine to five	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	127331	<|>	1	<|>	We're going sundown to sunrise	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	129188	<|>	3	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	134575	<|>	4	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	139660	<|>	1	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	141820	<|>	1	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	143654	<|>	1	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	144235	<|>	1	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	146348	<|>	1	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	148879	<|>	3	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	151085	<|>	1	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	152896	<|>	4	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	153453	<|>	1	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	155496	<|>	1	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	157099	<|>	3	<|>	'Cause when you do what you love	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	159467	<|>	4	<|>	You're gonna love what you do	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	161766	<|>	1	<|>	You know I do it with love	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	163948	<|>	3	<|>	Every time I'm with you	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	166828	<|>	1	<|>	It's the dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	168569	<|>	4	<|>	Somebodies gotta do it	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	170705	<|>	3	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	173190	<|>	1	<|>	So we're getting into it	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	175605	<|>	1	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	177323	<|>	3	<|>	Go and get your body moving	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	180063	<|>	4	<|>	You know it ain't no nine to five	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	182339	<|>	1	<|>	We're going sundown to sunrise	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	184173	<|>	3	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
