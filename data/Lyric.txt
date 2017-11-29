@@ -1,70 +1,93 @@
 // mark		time [ms]		Event id		phrase		t_FadeIn [sec]		life [sec]		t_FadeOut [sec]
-<Event>	<|>	11022	<|>	3	<|>	Rolling my sleeves up in here	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	16339	<|>	1	<|>	To make you smile ear to ear	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	20008	<|>	4	<|>	Girl I been hitting that, hitting that graveyard shift	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	23143	<|>	1	<|>	You won't find another one built for this	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	24768	<|>	3	<|>	Dirty work, ooh	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	27717	<|>	3	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	30085	<|>	1	<|>	Baby I don't need your help	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	34637	<|>	4	<|>	I'd do it all by myself	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	38236	<|>	3	<|>	Girl I been putting in, putting in over time	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	41417	<|>	1	<|>	You ain't gotta tell me what's on your mind	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	42903	<|>	3	<|>	Dirty work, ooh	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	45968	<|>	1	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	47477	<|>	4	<|>	'Cause when you do what you love	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	49706	<|>	1	<|>	You're gonna love what you do	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	51935	<|>	1	<|>	You know I do it with love	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	54304	<|>	3	<|>	Each night I do it for you	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	56115	<|>	1	<|>	It's the dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	58855	<|>	1	<|>	Somebodies gotta do it	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	61363	<|>	3	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	63058	<|>	4	<|>	So we're getting into it	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	65867	<|>	3	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	67934	<|>	1	<|>	Go and get your body moving	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	70279	<|>	3	<|>	You know it ain't no nine to five	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	72532	<|>	1	<|>	We're going sundown to sunrise	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	73971	<|>	3	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	79614	<|>	1	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	84861	<|>	3	<|>	I'm filthy down to the core	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	89389	<|>	4	<|>	Leave all your stress at the door	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	93035	<|>	3	<|>	You know you need to stop scrubbing with Mr. Clean	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	95403	<|>	1	<|>	Bring it right here, come next to me	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	98515	<|>	3	<|>	Dirty work, ooh	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	100883	<|>	4	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	102416	<|>	1	<|>	'Cause when you do what you love	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	104552	<|>	1	<|>	You're gonna love what you do	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	106851	<|>	1	<|>	You know I do it with love	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	109080	<|>	3	<|>	Each night I do it for you	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	111123	<|>	1	<|>	It's the dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	113747	<|>	4	<|>	Somebodies gotta do it	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	116278	<|>	1	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	118344	<|>	3	<|>	So we're getting into it	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	120086	<|>	1	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	122803	<|>	3	<|>	Go and get your body moving	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	124823	<|>	4	<|>	You know it ain't no nine to five	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	127331	<|>	1	<|>	We're going sundown to sunrise	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	129188	<|>	3	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	134575	<|>	4	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	139660	<|>	1	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	141820	<|>	1	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	143654	<|>	1	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	144235	<|>	1	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	146348	<|>	1	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	148879	<|>	3	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	151085	<|>	1	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	152896	<|>	4	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	153453	<|>	1	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	155496	<|>	1	<|>	Na, na, na, na, na, na, na, na, na, na	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	157099	<|>	3	<|>	'Cause when you do what you love	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	159467	<|>	4	<|>	You're gonna love what you do	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	161766	<|>	1	<|>	You know I do it with love	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	163948	<|>	3	<|>	Every time I'm with you	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	166828	<|>	1	<|>	It's the dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	168569	<|>	4	<|>	Somebodies gotta do it	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	170705	<|>	3	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	173190	<|>	1	<|>	So we're getting into it	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	175605	<|>	1	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	177323	<|>	3	<|>	Go and get your body moving	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	180063	<|>	4	<|>	You know it ain't no nine to five	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	182339	<|>	1	<|>	We're going sundown to sunrise	<|>	0	<|>	4	<|>	0.7
-<Event>	<|>	184173	<|>	3	<|>	Dirty work	<|>	0	<|>	4	<|>	0.7
+<Event>	<|>	4597	<|>	4	<|>	Uh huh yea, yeah	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	6873	<|>	4	<|>	Duro!	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	7918	<|>	1	<|>	You gotta let it bump	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	9055	<|>	4	<|>	Uh, uh, uh like dat yeah	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	13165	<|>	4	<|>	Come on bring the chorus in	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	14326	<|>	3	<|>	I'd risk everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	17856	<|>	1	<|>	For one kiss, everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	20805	<|>	4	<|>	Yes I'd do anything (Anything?)	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	24218	<|>	1	<|>	Anything for you	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	26749	<|>	4	<|>	I'd do a bid, loose a rib, \nbust a cap, trust in that	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	29744	<|>	1	<|>	Run up to heaven doors, \nexchange my life for yours	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	32647	<|>	1	<|>	Leave a steak out the door, \nmi casa, su casa	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	35642	<|>	4	<|>	Just remember to turn the lights off in the hall	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	38614	<|>	1	<|>	My brother from another pop, \nminus one shot	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	41586	<|>	4	<|>	We Nino and Gee Money man, \nwe all we got	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	44373	<|>	1	<|>	From the stoop to the big dudes, \nstoppin' us from playin' hoops	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	47577	<|>	1	<|>	And us getting mad, \nthrowing rocks off the roof	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	50178	<|>	3	<|>	Straight thuggin' man, \nI thought we would never progress	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	53266	<|>	4	<|>	But look at us now man, \nwe're young execs	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	56145	<|>	4	<|>	My nigga Dame, \nmy nigga Biggs, my nigga Ty	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	58467	<|>	4	<|>	My nigga High, my nigga Gotti	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	61022	<|>	1	<|>	We embody all that's right with the world	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	62159	<|>	1	<|>	No matter how pretty she is, \nyou never liking my girl	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	64992	<|>	4	<|>	That's how we run, when you ain't around	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	67361	<|>	1	<|>	I'll spank ya son, keep him in line	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	69195	<|>	1	<|>	If you should die, \nI'll keep him like mine	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	71099	<|>	1	<|>	God forbid, keep this in mind, my nigga	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	73932	<|>	3	<|>	I'd risk everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	76556	<|>	1	<|>	For one kiss, everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	79690	<|>	4	<|>	Yes I'd do anything (Anything?)	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	82709	<|>	1	<|>	Anything for you	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	84892	<|>	3	<|>	I'd risk everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	88514	<|>	4	<|>	For one kiss, everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	91556	<|>	1	<|>	Yes I'd do anything (Anything?)	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	94087	<|>	3	<|>	Anything for you	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	97616	<|>	4	<|>	I know Momma, your little baby	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	99218	<|>	1	<|>	But these streets raised me crazy	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	100588	<|>	1	<|>	Product of my environment, \nnothing can save me	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	103352	<|>	4	<|>	Thanks for letting me bloom \nfor your wisdom for your womb	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	106393	<|>	1	<|>	For the roof over my head, \nfor my shoes, for my bed	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	109365	<|>	4	<|>	For the most important lesson in life was when you said	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	112314	<|>	1	<|>	Strive for what you believe in, \nset goals and you can achieve them	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	115333	<|>	4	<|>	Thanks for the days you kept me breathing	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	118119	<|>	1	<|>	When my asthma was \nbad and my chest was weezing	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	121092	<|>	4	<|>	Thanks for the look of love just as I was leaving	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	124041	<|>	1	<|>	On nights you thought that \nI wouldn't come back, that left you grieving	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	126897	<|>	1	<|>	Thanks for holdin' down the household \nwhen times was bad	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	129845	<|>	1	<|>	As a man, I apologize for my dad	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	132818	<|>	4	<|>	When the rent was due, \nyou would hustle like a pimp would do	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	135836	<|>	1	<|>	That wasn't the life meant for you	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	138390	<|>	1	<|>	You're a queen, you deserve the cream, \neverything that gleamed	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	141688	<|>	1	<|>	Everything that shines, everything that's mine	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	143847	<|>	3	<|>	I'd risk everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	147562	<|>	1	<|>	For one kiss, everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	150488	<|>	4	<|>	Yes I'd do anything (Anything?)	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	153065	<|>	3	<|>	Anything for you	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	156502	<|>	1	<|>	I'd risk everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	159358	<|>	4	<|>	For one kiss, everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	162307	<|>	1	<|>	Yes I'd do anything (Anything?)	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	164815	<|>	3	<|>	Anything for you	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	167648	<|>	3	<|>	Dear nephews, \nI'm writing' this with no pen or a pad	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	170898	<|>	1	<|>	And I'm signing it, ya uncle, \nya best friend, and ya dad	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	174033	<|>	4	<|>	Don't look back if you fall and you're feeling bad	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	176936	<|>	1	<|>	I'm right there from your cut to \nwhen you peelin' the scab	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	179908	<|>	1	<|>	If it comes a time when you ain't feelin' your real dad	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	182950	<|>	4	<|>	Put my face on his body don't wait for nobody	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	185898	<|>	1	<|>	Don't follow no nigga, that's ho shit man	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	188615	<|>	1	<|>	Stand on your own two, do your shit man	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	191471	<|>	1	<|>	The world is yours, \nsome girls are nice some girls are whores	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	194374	<|>	4	<|>	Don't listen to your crew, \ndo what works for you	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	197601	<|>	4	<|>	Standing back from situations gives you the perfect view	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	200643	<|>	1	<|>	You see the snakes in the grass and you wait on their ass	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	203662	<|>	1	<|>	Bite your tongue for no one and whatever is said	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	206355	<|>	4	<|>	Take it how they want, \na closed mouth don't get fed	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	209513	<|>	4	<|>	You know my number \nwhen it's code red if you're wrong my nigga	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	212439	<|>	1	<|>	You're my nephew, \nfuck it we get it on my lil nigga	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	215040	<|>	3	<|>	I'd risk everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	218244	<|>	1	<|>	For one kiss, everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	221193	<|>	4	<|>	Yes I'd do anything (Anything?)	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	223863	<|>	3	<|>	Anything for you	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	227369	<|>	4	<|>	I'd risk everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	230156	<|>	1	<|>	For one kiss, everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	233012	<|>	1	<|>	Yes I'd do anything (Anything?)	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	235589	<|>	3	<|>	Anything for you	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	239258	<|>	4	<|>	I'd risk everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	241789	<|>	1	<|>	For one kiss, everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	244343	<|>	3	<|>	Yes I'd do anything (Anything?)	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	247338	<|>	1	<|>	Anything for you	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	250984	<|>	4	<|>	I'd risk everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	253654	<|>	1	<|>	For one kiss, everything	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	256487	<|>	1	<|>	Yes I'd do anything (Anything?)	<|>	0	<|>	5	<|>	0.7
+<Event>	<|>	259552	<|>	3	<|>	Anything for you	<|>	0	<|>	5	<|>	0.7

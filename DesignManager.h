@@ -101,6 +101,6 @@ public:
 	
 	void exit();
 	void setup();
-	void update();
+	int update();
 	void draw(float gui_TotalAlpha);
 };

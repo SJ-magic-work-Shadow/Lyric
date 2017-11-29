@@ -71,6 +71,7 @@ private:
 	********************/
 	void phrase_isAlnum();
 	void del_NotPrimitiveLetter(string& str);
+	void YennToCR(string& s);
 	
 public:
 	/****************************************

@@ -89,6 +89,8 @@ bool THREAD__EVENT_TIMETABLE::Set_time_and_data__DataToCharge(string& strBuf)
 		
 		/********************
 		********************/
+		YennToCR(data_to_charge.DataSet.phrase);
+		
 		phrase_isAlnum();
 		if(data_to_charge.DataSet.b_alnum && b_IsSimpleFont) del_NotPrimitiveLetter(data_to_charge.DataSet.phrase);
 		
@@ -96,6 +98,33 @@ bool THREAD__EVENT_TIMETABLE::Set_time_and_data__DataToCharge(string& strBuf)
 		
 	}else{
 		return false;
+	}
+}
+
+/******************************
+description
+	外部fileから文字列を読み込んだ時、
+	string文字列中の"\n"は実は"\\n"(\\ + n の２文字)、改行文字のリテラルではない.
+	本methodは、これを変換するためのmethod.
+	
+参考
+	http://d.hatena.ne.jp/p95095yy/20050222/1109119001
+	注意)
+		本URLでは、find_first_of を使っているが、間違い.
+		find_first_of()は、「列挙された1文字ずつを」探しに行く.
+		正解は、「文字列」を探しに行く find().
+******************************/
+void THREAD__EVENT_TIMETABLE::YennToCR(string& s)
+{
+	string YenN = "\\n";
+	string CR   = "\n";
+	
+	// size_t pos = s.find_first_of(YenN, 0); // NG. don't use find_first_of here.
+	size_t pos = s.find(YenN, 0);
+
+	while(pos != string::npos){
+		s.replace(pos, YenN.length(), CR);
+		pos = s.find(YenN, pos);
 	}
 }
 
@@ -113,8 +142,7 @@ note
 void THREAD__EVENT_TIMETABLE::del_NotPrimitiveLetter(string& str)
 {
 	size_t pos;
-
-	while( (pos = str.find_first_not_of("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 ")) != string::npos ){
+	while( (pos = str.find_first_not_of("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 \n")) != string::npos ){
 		str.erase(pos, 1);
 	}
 }
@@ -128,7 +156,8 @@ void THREAD__EVENT_TIMETABLE::phrase_isAlnum()
 	int length = data_to_charge.DataSet.phrase.length();
 	for(int i = 0; i < length; i++){
 		int c = data_to_charge.DataSet.phrase.c_str()[i];
-		if( !isalnum(c) && !isspace(c) && !ispunct(c) && !iscntrl(c) ){
+		// if( !isalnum(c) && !isspace(c) && !ispunct(c) && !iscntrl(c) ){
+		if( !isalnum(c) && !isspace(c) && !ispunct(c) ){
 			data_to_charge.DataSet.b_alnum = false;
 			return;
 		}

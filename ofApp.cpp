@@ -86,7 +86,7 @@ void ofApp::update(){
 	TestSurface.update();
 	
 #else
-	DesignManager->update();
+	t_Music = DesignManager->update();
 	
 #endif
 }
@@ -120,9 +120,33 @@ void ofApp::draw(){
 	/********************
 	show gui after publishing.
 	********************/
-	if(b_DispGui)	gui.draw();
+	if(b_DispGui){
+		gui.draw();
+		draw_time(ofGetFrameRate());
+	}
 	
 #endif
+}
+
+/******************************
+******************************/
+void ofApp::draw_time(double FrameRate)
+{
+	/********************
+	********************/
+	char buf[BUF_SIZE];
+	
+	int min	= t_Music / 1000 / 60;
+	int sec	= t_Music / 1000 - min * 60;
+	int ms	= t_Music % 1000;
+	
+	sprintf(buf, "%6d:%6d:%6d\n%7.2f", min, sec, ms, FrameRate);
+	
+	
+	/********************
+	********************/
+	ofSetColor(255, 255, 255);
+	ofDrawBitmapString(buf, 300, 20);
 }
 
 //--------------------------------------------------------------

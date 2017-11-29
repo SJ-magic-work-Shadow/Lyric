@@ -40,11 +40,17 @@ private:
 	
 	bool b_DispGui;
 	
+	int t_Music;
+	
 	/********************
 	********************/
 #if (BUILD_SW == CHECK__SURFACE)
 	TEST_SURFACE TestSurface;
 #endif
+
+	/****************************************
+	****************************************/
+	void draw_time(double FrameRate);
 	
 public:
 	/****************************************

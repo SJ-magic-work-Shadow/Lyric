@@ -132,6 +132,7 @@ void DESIGN_MANAGER::ReStart(DATASET__EVENT& TimeTable_Dataset_Event)
 	music.setPositionMS(t_ofs_ms);
 	
 	t_ofs_ms = 0;
+	t_LastMusic = -1;
 }
 
 /******************************
@@ -152,7 +153,7 @@ void DESIGN_MANAGER::ResetDesign(DATASET__EVENT& TimeTable_Dataset_Event)
 
 /******************************
 ******************************/
-void DESIGN_MANAGER::update()
+int DESIGN_MANAGER::update()
 {
 	/********************
 	********************/
@@ -168,6 +169,8 @@ void DESIGN_MANAGER::update()
 		
 		DATASET__EVENT temp = {EVENT__NONE/* no use */, " ", 1.0/* t_FadeIn */, 5/* t_life */, 1.0/* t_FadeOut */};
 		ReStart(temp);
+	}else{
+		t_LastMusic = t_music;
 	}
 	
 	/********************
@@ -203,7 +206,7 @@ void DESIGN_MANAGER::update()
 	
 	/********************
 	********************/
-	t_LastMusic = t_music;
+	return t_LastMusic;
 }
 
 
