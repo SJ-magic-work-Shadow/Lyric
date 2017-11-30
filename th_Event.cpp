@@ -130,6 +130,26 @@ void THREAD__EVENT_TIMETABLE::YennToCR(string& s)
 
 /******************************
 description
+	外部fileに戻す時は、
+	"\n" -> "\\n"
+******************************/
+string THREAD__EVENT_TIMETABLE::CR_To_Yenn(string s)
+{
+	string YenN = "\\n";
+	string CR   = "\n";
+	
+	size_t pos = s.find(CR, 0);
+
+	while(pos != string::npos){
+		s.replace(pos, CR.length(), YenN);
+		pos = s.find(CR, pos);
+	}
+	
+	return s;
+}
+
+/******************************
+description
 	RvD_BETON13.ttf など、primitiveな文字しか用意のないfontを使う場合(surface.cpp)、本methodで no primitive letterを削除する.
 	削除しない場合でも、console上にError表示が出るだけでError終了などする訳ではないが、気持ち悪いので.
 	
@@ -212,8 +232,15 @@ description
 ******************************/
 void THREAD__EVENT_TIMETABLE::fprintf_outputData(int t_music, FILE* fp)
 {
+	string phrase = CR_To_Yenn(data_to_output.DataSet.phrase); // fileに戻す時は、"\n" to "\\n".
+	
+	fprintf(fp, "<Event>\t<|>\t%d\t<|>\t%d\t<|>\t%s\t<|>\t%.3f\t<|>\t%.3f\t<|>\t%.3f\n",
+				t_music, data_to_output.DataSet.EventId, phrase.c_str(), data_to_output.DataSet.t_FadeIn, data_to_output.DataSet.t_life, data_to_output.DataSet.t_FadeOut);
+				
+	/*
 	fprintf(fp, "<Event>\t<|>\t%d\t<|>\t%d\t<|>\t%s\t<|>\t%.3f\t<|>\t%.3f\t<|>\t%.3f\n",
 				t_music, data_to_output.DataSet.EventId, data_to_output.DataSet.phrase.c_str(), data_to_output.DataSet.t_FadeIn, data_to_output.DataSet.t_life, data_to_output.DataSet.t_FadeOut);
+	*/
 }
 
 /******************************

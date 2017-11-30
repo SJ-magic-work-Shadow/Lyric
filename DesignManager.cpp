@@ -169,6 +169,20 @@ int DESIGN_MANAGER::update()
 		
 		DATASET__EVENT temp = {EVENT__NONE/* no use */, " ", 1.0/* t_FadeIn */, 5/* t_life */, 1.0/* t_FadeOut */};
 		ReStart(temp);
+		
+		/********************
+		ReStartでSeekするので、再取得.
+		otherwise:
+			例えばseekで前に戻った場合、上のgetPositionMS()では、現在位置より先の時間となる.
+			get_EventAndDataset_TimeTableScenario()では、THREAD_BASE::update()を呼ぶので、
+			時間を再取得せずに、そのままcallすると、
+			THREAD_BASE内の時間が進んでしまう.
+			
+			次の本methodでは、音楽時間が正しい(戻った)時間になるので、前回のupdateで送った間違った時間にたどり着くまで、
+			THREAD_BASE側の時間が進まないことになる.
+		********************/
+		t_music = music.getPositionMS();
+		
 	}else{
 		t_LastMusic = t_music;
 	}
